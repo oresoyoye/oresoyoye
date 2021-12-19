@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oresoyoye
-- 👀 I’m interested in data and business analytics
+- 👀 Data analyst, Business Analyst
 - 🌱 I’m currently learning Python, Machine learning, Tableau
 - 💞️ I’m looking to collaborate on Python, Machine learning, SQL and Tableau projects
 - 📫 How to reach me oresoyoye@gmail.com
