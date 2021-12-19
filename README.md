@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oresoyoye
+- 👋 Hi, I’m @Oreoluwa Soyoye
 - 👀 Data analyst, Business Analyst
 - 🌱 I’m currently learning Python, Machine learning, Tableau
 - 💞️ I’m looking to collaborate on Python, Machine learning, SQL and Tableau projects
